@@ -1,0 +1,25 @@
+[0.450s] Invoking command in '/home/adwait/ros2_ws/src/my_robot_controller/build/my_robot_controller': PYTHONPATH=/home/adwait/ros2_ws/src/my_robot_controller/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adwait/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/adwait/ros2_ws/src/my_robot_controller/build/my_robot_controller/build --no-deps symlink_data
+[0.639s] running develop
+[0.747s] running egg_info
+[0.747s] creating my_robot_controller.egg-info
+[0.747s] writing my_robot_controller.egg-info/PKG-INFO
+[0.747s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.747s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.748s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.748s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.748s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.749s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.749s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.750s] running build_ext
+[0.750s] Creating /home/adwait/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.751s] Installing draw_spiral script to /home/adwait/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/my_robot_controller
+[0.751s] Installing turtle_controller script to /home/adwait/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/my_robot_controller
+[0.751s] 
+[0.751s] Installed /home/adwait/ros2_ws/src/my_robot_controller/build/my_robot_controller
+[0.752s] running symlink_data
+[0.752s] creating /home/adwait/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index
+[0.752s] creating /home/adwait/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index
+[0.752s] creating /home/adwait/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.752s] symbolically linking /home/adwait/ros2_ws/src/my_robot_controller/build/my_robot_controller/resource/my_robot_controller -> /home/adwait/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.752s] symbolically linking /home/adwait/ros2_ws/src/my_robot_controller/build/my_robot_controller/package.xml -> /home/adwait/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/my_robot_controller
+[0.775s] Invoked command in '/home/adwait/ros2_ws/src/my_robot_controller/build/my_robot_controller' returned '0': PYTHONPATH=/home/adwait/ros2_ws/src/my_robot_controller/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adwait/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/adwait/ros2_ws/src/my_robot_controller/build/my_robot_controller/build --no-deps symlink_data

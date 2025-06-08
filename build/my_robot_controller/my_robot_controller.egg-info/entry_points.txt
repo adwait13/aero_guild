@@ -1,0 +1,4 @@
+[console_scripts]
+draw_spiral = my_robot_controller.spiral:main
+turtle_controller = my_robot_controller.turtle_controller:main
+
